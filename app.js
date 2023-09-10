@@ -48,7 +48,7 @@ function showWeatherReport(weather){
 
 
     if(weatherType.textContent == 'Clear') {
-        document.body.style.backgroundImage = "url('images/clear.jpg')";
+        document.body.style.backgroundImage = "url('images/sunny.jpg')";
 
     } else if(weatherType.textContent == 'Clouds') {
 
